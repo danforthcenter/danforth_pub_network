@@ -1,0 +1,30 @@
+Author	ORCID
+Allen, Douglas	0000-0001-8599-8946	
+Alvarez, Sophie	0000-0001-8550-2832
+Anderson, Paul	0000-0001-7204-3884
+Bart, Rebecca	0000-0003-1378-3481
+Baxter, Ivan	0000-0001-6680-1722
+Berg, R. Howard	0000-0001-5081-2769
+Brutnell, Tom	0000-0002-3581-8211
+Bryant, Douglas	0000-0003-4092-0330
+Carrington, James	0000-0003-3572-129X
+Chitwood, Dan	0000-0003-4875-1447
+Evans, Bradley	0000-0002-1207-9006
+Eveland, Andrea	0000-0003-4825-1282
+Fahlgren, Noah	0000-0002-5597-4537
+Jaworski, Jan	0000-0003-3309-4915
+Kellogg, Elizabeth	0000-0003-1671-7447
+Kutchan, Toni	0000-0001-6501-3740
+Meyers, Blake	0000-0003-3436-6097
+Mockler, Todd	0000-0002-0462-5775
+Nusinow, Dmitri	0000-0002-0497-1723
+Pandey, Sona	0000-0002-5570-3120
+Quemada, Hector	0000-0003-0003-0739
+Shah, Dilip	0000-0001-9503-4729
+Smith, Tom	0000-0003-3528-6793
+Taylor, Nigel	0000-0002-5426-2247
+Topp, Christopher	0000-0001-9228-6752
+Umen, James	0000-0003-4094-9045
+Wang, Sam (Xuemin)	0000-0002-6251-6745
+Wilson, Melinda	0000-0003-0190-6958
+Woodford-Thomas, Terry	0000-0002-8454-1271
